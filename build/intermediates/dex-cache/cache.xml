@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/narenph/Documents/sensor/BleSensorTag/libs/org.eclipse.paho.android.service-1.0.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3b8420e57139cc627a55be0c17b6687e92d7460f">
+        <dex dex="/home/narenph/Documents/sensor/BleSensorTag/build/intermediates/pre-dexed/debug/org.eclipse.paho.android.service-1.0.2-9351e6e9430fa70fc93f0b4dc55053b7ba0a1772.jar" />
+    </item>
+    <item
+        jar="/home/narenph/Documents/sensortag20/BleSensorTag/libs/org.eclipse.paho.client.mqttv3-1.0.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="02e433eb0fda11fe7170cf8214ba2f4d165c29b6">
+        <dex dex="/home/narenph/Documents/sensortag20/BleSensorTag/build/intermediates/pre-dexed/debug/org.eclipse.paho.client.mqttv3-1.0.2-7aeab7b9f468076f0909a68defbb8267c797184a.jar" />
+    </item>
+    <item
+        jar="/home/narenph/Documents/sensor/BleSensorTag/libs/org.eclipse.paho.client.mqttv3-1.0.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="02e433eb0fda11fe7170cf8214ba2f4d165c29b6">
+        <dex dex="/home/narenph/Documents/sensor/BleSensorTag/build/intermediates/pre-dexed/debug/org.eclipse.paho.client.mqttv3-1.0.2-8acbd1aeadea2b8848f4df14110d7b7aa4b8a78e.jar" />
+    </item>
+    <item
+        jar="/home/narenph/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/home/narenph/Documents/sensortag20/BleSensorTag/build/intermediates/pre-dexed/debug/support-v4-19.1.0-b914218c33b770dbcd8739597478e4e418e18355.jar" />
+    </item>
+    <item
+        jar="/home/narenph/Documents/sensortag20/BleSensorTag/libs/org.eclipse.paho.android.service-1.0.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3b8420e57139cc627a55be0c17b6687e92d7460f">
+        <dex dex="/home/narenph/Documents/sensortag20/BleSensorTag/build/intermediates/pre-dexed/debug/org.eclipse.paho.android.service-1.0.2-3afb1fda21e399b7efacee08e6c3f6a8ed17ec26.jar" />
+    </item>
+
+</items>
